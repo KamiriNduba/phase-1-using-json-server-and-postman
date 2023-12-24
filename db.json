@@ -1,0 +1,34 @@
+{
+    "articles": [
+      {
+        "id": 1,
+        "title": "Introduction to JSON",
+        "content": "JSON (JavaScript Object Notation) is a lightweight data-interchange format..."
+      },
+      {
+        "id": 2,
+        "title": "Working with APIs",
+        "content": "APIs (Application Programming Interfaces) allow different software applications to communicate..."
+      },
+      {
+        "id": 3,
+        "title": "Web Development Basics",
+        "content": "Web development involves creating web applications and websites using HTML, CSS, and JavaScript."
+      }
+    ],
+    "users": [
+      {
+        "id": 1,
+        "username": "john_doe",
+        "email": "john@example.com",
+        "role": "user"
+      },
+      {
+        "id": 2,
+        "username": "jane_smith",
+        "email": "jane@example.com",
+        "role": "admin"
+      }
+    ]
+  }
+  
